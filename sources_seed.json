@@ -1,0 +1,156 @@
+[
+  {
+    "id": "flexi-direct",
+    "title": "HDFC Flexi Cap Fund \u2014 Direct Plan",
+    "url": "https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/direct",
+    "scheme": "flexi",
+    "kind": "HTML"
+  },
+  {
+    "id": "flexi-regular",
+    "title": "HDFC Flexi Cap Fund \u2014 Regular Plan",
+    "url": "https://www.hdfcfund.com/explore/mutual-funds/hdfc-flexi-cap-fund/regular",
+    "scheme": "flexi",
+    "kind": "HTML"
+  },
+  {
+    "id": "large-direct",
+    "title": "HDFC Large Cap Fund \u2014 Direct Plan",
+    "url": "https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/direct",
+    "scheme": "large",
+    "kind": "HTML"
+  },
+  {
+    "id": "large-regular",
+    "title": "HDFC Large Cap Fund \u2014 Regular Plan",
+    "url": "https://www.hdfcfund.com/explore/mutual-funds/hdfc-large-cap-fund/regular",
+    "scheme": "large",
+    "kind": "HTML"
+  },
+  {
+    "id": "elss-direct",
+    "title": "HDFC ELSS - Tax Saver Fund \u2014 Direct Plan",
+    "url": "https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/direct",
+    "scheme": "elss",
+    "kind": "HTML"
+  },
+  {
+    "id": "elss-regular",
+    "title": "HDFC ELSS - Tax Saver Fund \u2014 Regular Plan",
+    "url": "https://www.hdfcfund.com/explore/mutual-funds/hdfc-elss-tax-saver-fund/regular",
+    "scheme": "elss",
+    "kind": "HTML"
+  },
+  {
+    "id": "flexi-sid",
+    "title": "HDFC Flexi Cap Fund \u2014 SID (21 November 2025)",
+    "url": "https://files.hdfcfund.com/s3fs-public/SID/2025-11/SID%20-%20HDFC%20Flexi%20Cap%20Fund%20dated%20November%2021%2C%202025_0.pdf",
+    "scheme": "flexi",
+    "kind": "PDF"
+  },
+  {
+    "id": "flexi-kim",
+    "title": "HDFC Flexi Cap Fund \u2014 KIM (21 November 2025)",
+    "url": "https://files.hdfcfund.com/s3fs-public/KIM/2025-11/KIM%20-%20HDFC%20Flexi%20Cap%20Fund%20dated%20November%2021%2C%202025_1.pdf",
+    "scheme": "flexi",
+    "kind": "PDF"
+  },
+  {
+    "id": "large-sid",
+    "title": "HDFC Large Cap Fund \u2014 SID (21 November 2025)",
+    "url": "https://files.hdfcfund.com/s3fs-public/SID/2025-11/SID%20-%20HDFC%20Large%20Cap%20Fund%20dated%20November%2021%2C%202025_0.pdf",
+    "scheme": "large",
+    "kind": "PDF"
+  },
+  {
+    "id": "large-kim",
+    "title": "HDFC Large Cap Fund \u2014 KIM (21 November 2025)",
+    "url": "https://files.hdfcfund.com/s3fs-public/KIM/2025-11/KIM%20-%20HDFC%20Large%20Cap%20Fund%20dated%20November%2021%2C%202025_0.pdf",
+    "scheme": "large",
+    "kind": "PDF"
+  },
+  {
+    "id": "elss-sid",
+    "title": "HDFC ELSS Tax Saver \u2014 SID (21 November 2025)",
+    "url": "https://files.hdfcfund.com/s3fs-public/SID/2025-11/SID%20-%20HDFC%20ELSS%20Tax%20Saver%20dated%20November%2021%2C%202025.pdf",
+    "scheme": "elss",
+    "kind": "PDF"
+  },
+  {
+    "id": "elss-kim",
+    "title": "HDFC ELSS Tax Saver \u2014 KIM (21 November 2025)",
+    "url": "https://files.hdfcfund.com/s3fs-public/KIM/2025-11/KIM%20-%20HDFC%20ELSS%20Tax%20Saver%20dated%20November%2021%2C%202025_0.pdf",
+    "scheme": "elss",
+    "kind": "PDF"
+  },
+  {
+    "id": "flexi-facts",
+    "title": "HDFC Flexi Cap \u2014 Fund Facts",
+    "url": "https://files.hdfcfund.com/s3fs-public/Others/2026-09/Fund%20Facts%20-%20HDFC%20Flexi%20Cap%20Fund_September%2026_0.pdf",
+    "scheme": "flexi",
+    "kind": "PDF"
+  },
+  {
+    "id": "large-facts",
+    "title": "HDFC Large Cap \u2014 Fund Facts",
+    "url": "https://files.hdfcfund.com/s3fs-public/Others/2026-09/Fund%20Facts%20-%20HDFC%20Large%20Cap%20Fund_September%2026.pdf",
+    "scheme": "large",
+    "kind": "PDF"
+  },
+  {
+    "id": "elss-facts",
+    "title": "HDFC ELSS Tax Saver \u2014 Fund Facts",
+    "url": "https://files.hdfcfund.com/s3fs-public/Others/2026-07/Fund%20Facts%20-%20HDFC%20TaxSaver%20Fund_July%2026.pdf",
+    "scheme": "elss",
+    "kind": "PDF"
+  },
+  {
+    "id": "ter",
+    "title": "HDFC Total Expense Ratio disclosures",
+    "url": "https://www.hdfcfund.com/statutory-disclosure/total-expense-ratio-of-mutual-fund-schemes/reports",
+    "scheme": "general",
+    "kind": "HTML"
+  },
+  {
+    "id": "statement",
+    "title": "HDFC Download Statement",
+    "url": "https://www.hdfcfund.com/services/consolidated-account-statement",
+    "scheme": "general",
+    "kind": "HTML"
+  },
+  {
+    "id": "capital-gains",
+    "title": "HDFC Request Statement / Capital Gains",
+    "url": "https://www.hdfcfund.com/services/additional-info/request-statement",
+    "scheme": "general",
+    "kind": "HTML"
+  },
+  {
+    "id": "factsheets",
+    "title": "HDFC Factsheets",
+    "url": "https://www.hdfcfund.com/mutual-funds/factsheets",
+    "scheme": "general",
+    "kind": "HTML"
+  },
+  {
+    "id": "risk-guide",
+    "title": "AMFI Risk in Mutual Funds",
+    "url": "https://www.amfiindia.com/investor/knowledge-center-info?zoneName=riskInMutualFunds",
+    "scheme": "general",
+    "kind": "HTML"
+  },
+  {
+    "id": "riskometer-guide",
+    "title": "AMFI Risk-o-Meter information",
+    "url": "https://www.amfiindia.com/online-center/risk-o-meter",
+    "scheme": "general",
+    "kind": "HTML"
+  },
+  {
+    "id": "cyber",
+    "title": "HDFC Cyber Security Awareness",
+    "url": "https://www.hdfcfund.com/information/cyber-security-awareness",
+    "scheme": "general",
+    "kind": "HTML"
+  }
+]

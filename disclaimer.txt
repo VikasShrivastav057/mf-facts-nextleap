@@ -1,0 +1,3 @@
+Facts-only. No investment advice.
+This assistant shares public scheme information from official AMC and AMFI sources. It does not recommend investments, assess suitability, or calculate, compare or predict returns. Do not enter PAN, Aadhaar, account numbers, OTPs, emails or phone numbers. Each answer cites one official source and shows when the source snapshot was last checked. Facts may change; verify current official disclosures. Mutual fund investments are subject to market risks. Read all scheme-related documents carefully.
+Independent learning prototype; not affiliated with Groww or HDFC Mutual Fund.
